@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix MediTrack",
+  "description": "Connecting People. Connecting Workflows. Connecting Care. A unified healthcare platform for patients, doctors, hospitals, and emergency responders.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
